@@ -1,6 +1,6 @@
 // baidu yapi
-const SERVER_API_URL = 'http://192.168.1.65:4000/';
-const IMAGE_URL = 'http://192.168.1.65:4000/images/';
+const SERVER_API_URL = 'https://kurakani-dinn.onrender.com/';
+const IMAGE_URL = 'https://kurakani-dinn.onrender.com/images/';
 const APPID = "e11666dd3c4346568b67b80823bcca50";
 
 // firebase
