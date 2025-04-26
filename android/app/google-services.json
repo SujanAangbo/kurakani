@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "580428765837",
+    "project_id": "kurakani-b647f",
+    "storage_bucket": "kurakani-b647f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580428765837:android:83fb6b513b67f4d16420c4",
+        "android_client_info": {
+          "package_name": "com.example.kurakani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580428765837-svhicr3chtcnuptg0lgeoha5cbfjhe82.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kurakani",
+            "certificate_hash": "f2b3344088a3c7aa2c9d6f577da8d6eeefb6b6d3"
+          }
+        },
+        {
+          "client_id": "580428765837-ld7o9i8lg2v7hr0fk211rdr5vl8ebhas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFbP2JKCfxCSb1_0qRLutx7ICMGjkgocU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580428765837-ld7o9i8lg2v7hr0fk211rdr5vl8ebhas.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "580428765837-epjg845iog5jh1sl9edc1m3njge7mc9r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kurakani"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
