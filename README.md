@@ -1,16 +1,21 @@
 # kurakani
 
-A new Flutter project.
+A flutter chat application build to learn flutter development in more depth.
 
-## Getting Started
+Features: 
+- Auth
+- Messaging
+- Audio and Video Call
 
-This project is a starting point for a Flutter application.
+Tech Used: 
+- Firebase for messaging and notification
+- NodeJs for sending call notification
 
-A few resources to get you started if this is your first Flutter project:
+State Management: 
+- GetX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Demo Video: 
+https://drive.google.com/file/d/1tFLGj5YNTEUslshGfHzFESeZkLTVggRM/view?usp=sharing
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Backend Repo: 
+https://github.com/SujanAangbo/kurakani-backend.git
